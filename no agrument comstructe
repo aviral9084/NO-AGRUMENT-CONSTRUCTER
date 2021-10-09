@@ -1,0 +1,12 @@
+
+
+public class Test { Test(
+){
+    System.out.println("no agrument comstructer ");
+}
+    public static  void main(String[] args) {
+        Test  t = new Test();
+
+    }
+
+}
